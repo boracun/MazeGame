@@ -16,10 +16,10 @@ You can find the tutorial here: https://www.youtube.com/watch?v=-BkHu8em9fM&t=60
 
 <h1>Future plan for this project</h1>
 
-<h2> MazeGame v1.1</h2>
-- The code will be tidied.<br/>
-- Enemy AI will be improved. < br/>
+<h2>MazeGame v1.1</h2>
+- The code will be tidied. <br/>
+- Enemy AI will be improved.
 
 <h2> MazeGame v2.0</h2>
-- A new algorithm will allow the player to play on computer generated labyrinths.
+- A new algorithm will allow the player to play on computer generated labyrinths. <br/>
 - The player will be able to choose difficulty. Difficulty will increase the enemies and the complexity of the generated maze.
