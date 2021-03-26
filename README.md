@@ -9,8 +9,6 @@ A maze game played in console.<br/>
 You can move using w, a, s, d keys. <br/>
 Press q to exit the game. <br/>
 
-Currently, the maze design is not finished. It will be completed in a few days.
-
 Credits to MelaTheTrololol on YouTube for the source code. <br/>
 You can find the tutorial here: https://www.youtube.com/watch?v=-BkHu8em9fM&t=605s&ab_channel=MelaTheTrololol <br/>
 
